@@ -29,7 +29,7 @@ This program is a weather forecast dashboard that displays the current weather f
 ## Demo
 
 ![Screenshot](Assets\Screenshot.png)
-C:\Users\bahma\Oracle\Desktop\Weather-cH6\Assets\Screenshot (85).png
+
 ## deploy
 
 To deploy the program locally, follow the link below:
