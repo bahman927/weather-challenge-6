@@ -28,7 +28,7 @@ This program is a weather forecast dashboard that displays the current weather f
 
 ## Demo
 
-![Screenshot](Assets\Screenshot.png)
+![](images/Screenshot.png)
 
 ## deploy
 
