@@ -34,4 +34,4 @@ This program is a weather forecast dashboard that displays the current weather f
 
 To deploy the program locally, follow the link below:
 
-deploy link: https://bahman927.github.io/weather-challeng-6/weather-challenge-6
+deploy link:  https://bahman927.github.io/weather-challenge-6/weather-challenge-6/
